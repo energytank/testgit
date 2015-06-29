@@ -1,2 +1,2 @@
 <?php
-echo '²âÊÔÐÅÏ¢';
+echo 'Hello Word';
